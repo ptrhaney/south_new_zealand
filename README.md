@@ -1,6 +1,6 @@
 # Earthquakes visualization
 
-This application shows the earthquakes in 2019 with an exaggerated depth. The earthquake data used in this app comes from [USGS](https://earthquake.usgs.gov/earthquakes/search/). The app is created with [Esri's ArcGIS API for JavaScript](https://developers.arcgis.com/javascript).
+This application shows the earthquakes in 1973 to 2024 south of New Zealand with an exaggerated depth. The earthquake data used in this app comes from [USGS](https://earthquake.usgs.gov/earthquakes/search/). The app is created with [Esri's ArcGIS API for JavaScript](https://developers.arcgis.com/javascript).
 
 [![app-screenshot](./new_zealand_screenshot.png)](https://ralucanicola.github.io/earthquakes-viz/)
 
